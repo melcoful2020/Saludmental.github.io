@@ -1,0 +1,1180 @@
+{
+  "settings": {
+    "name": "NewSite-06-11_2019",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 27,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#e25041"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "PROGRAMA SALUD MENTAL",
+          "text": "Esta iniciativa organizacional es una oportunidad<br>para ti. Entérate de nuestras actividades en este<br>Blog que te saluda mes a mes y permanecerá dispuesto a ofrecerte atención cuando lo necesites.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">CRONOGRAMA DE&nbsp;ACTIVIDADES</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">VIDEO INSTITUCIONAL</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Site Creator Title",
+        "meta_descr": "Site Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "programa MARIALU \" Encaminado tus sueños\"",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Desarrollando actividades",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+                "active": false
+              },
+              {
+                "caption": "Desarrollo infantil en medio familiar \"De cero a siempre\"",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1125.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg",
+                "active": false
+              },
+              {
+                "caption": "Funcionarios trabajan en zonas como Soto Norte, Matanza, California, Turbay, Girón, entre otros. ",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-fundestar-2-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/foto-fundestar-2-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Programa psicosocial denominado “Soy una Mamá Empoderada”,",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1261-800x504.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1261.png",
+                "active": false
+              },
+              {
+                "caption": "Caminos de paz",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1200-800x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1200.jpg",
+                "active": false
+              },
+              {
+                "caption": "Fundestar graduó madres adolescentes del Programa MaríaLu",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1269-800x507.png",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1269.png",
+                "active": false
+              },
+              {
+                "caption": "Fundestar realiza rendición de cuentas de los programas de primera infancia",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1257-800x502.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1257.png",
+                "active": false
+              }
+            ],
+            "showText": true,
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-9",
+          "articleLayout": true
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-5",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article UL": {
+              "text-align": "left"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-g",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/todo-2000x2548.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "QUE ES FUNDESTAR ?<br><br><div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i><b>FUNDACION PARA EL FOMENTO, &nbsp;DESARROLLO Y BIENESTAR DE LA COMUNIDAD</b></i></p><p><b><br></b><br></p><p><b>Fundestar, es una entidad que vela por el respeto de los derechos humanos y apoyo a las poblaciones que más lo necesitan, tales como: infancia, adultos mayores, madres adolescentes y población vulnerable.</b></p><p><b>Dentro de los programas que dirige la fundación se encuentran: MaríaLu, el cual es un programa de formación integral que fomenta y capacita a las madres adolescentes de escasos recursos de la Ciudadela Nuevo Girón, a empoderarse para salir adelante; Primera Infancia, este es un programa enmarcado bajo la política “De Cero a Siempre” en el que trabajan como operadores del Instituto Colombiano de Bienestar Familiar, ICBF; Plan Padrino, programa que consiste en ayudar integralmente a un niño o niña en modo de apadrinamiento, entre otros. Explica Juan Manuel Mejía Rueda, Coordinador de Proyectos de Fundestar.</b></p><p><b>Miriam Cecilia Moros Chávez, representante legal y fundadora de Fundestar, explica que por medio del programa MaríaLu les brindan apoyo a las niñas para que estudien y mejoren su posible futuro.</b></p><p><b><br></b></p><p><b>“Nosotros buscamos que las niñas, primero que todo, recobren sus ganas de seguir siendo jóvenes y de cumplir con la misión que cada una tiene. Por ejemplo, si han dejado el sistema escolar, que vuelvan al colegio. Tenemos psicólogas, nutricionistas y talleristas dependiendo de las actividades que estemos realizando en la programación. En este momento estamos, ya en este año con un grupo de niñas ya escolarizadas que están haciendo la terminación de su bachillerato”.</b><br></p><p><b>Fundestar fue creado el 10 de diciembre de 1986, hace 32 años con el fin de buscar que la población vulnerable mejore sus condiciones de vida, aclara Miriam Moros.</b></p><p><b><br></b><br></p><blockquote><p>Silvia Fernanda Benitez, beneficiada de la Fundación por el programa MaríaLu, asegura que el ser parte de esta entidad le ha mejorado sus posibilidades de un mejor futuro, pues le han brindado la oportunidad de estudiar y mejorar su autoestima.</p><p><b><br></b>“MaríaLu me ha servido mucho porque me he enfocado en yo misma, en mis estudios, en mi aprendizaje, ellos han estado muy pendientes de mí, me han ayudado mucho en mis estudios para capacitarme yo misma, para formarme, para estar con un buen rendimiento, me ha enseñado los valores, los respetos de sí misma. He estado muy contenta con el programa”.</p></blockquote><p><br></p><p><b>Fundestar está ubicada en el departamento de Santander y Cundinamarca, sus funcionarios trabajan en zonas como Soto Norte, Matanza, California, Turbay, Girón, entre otros. Además, están intentando expandirse a nivel nacional e internacional en alianza con la Multinacional Éxito y han presentado proyectos a la Unión Europea.</b></p><p>@jonesquintero16</p><p>Por Linda Saavedra.</p><p><br></p><p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Web Creator Title",
+        "meta_descr": "Web Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-2000x1500.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "COMPLETA ESTE<br> FORMULARIO DE CONTACTO",
+          "form": {
+            "action": "industriasmelco@gmail.com",
+            "alerts": {
+              "success": "GRACIAS, YA QUEDASTE REGISTRADO !\nPronto te enviaremos mas información ...."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Correo electrónico"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje (opcional)"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REGISTRARME</a>"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#2969b0",
+              "text-align": "center",
+              "font-size": "46px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-q",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "OFRECEMOS DISCULPAS.<br><br> &nbsp;Esta página se encuentra en construcción",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">VOLVER AL INICIO</a>"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Web Creator Title",
+        "meta_descr": "Web Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-e",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-k",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-l",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-m",
+          "_params": {
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/juntos-483x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SALUDABLE MENTE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>CONSULTAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>PROGRAMAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>QUIENES SOMOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\" tel:+573227026927.\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LLAMAR AHORA</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola+fundestar\" target=\"_blank\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CHAT WHASAPP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/573227026927?text=hola%2C+me+gustaria+conocer+mas+sobre+el+programa+de+salud+mental.\" target=\"_blank\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#28324e"
+            },
+            ".mbr-header__subtext": {
+              "color": "#211e1c"
+            }
+          },
+          "_anchor": "features1-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#efefef",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "SERVICIOS DEL PROGRAMA SALUD MENTAL",
+          "subheader": "Por Angela Martinez, Posteado en junio, 2020",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-600x961.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "OFRECEMOS",
+          "caption1": "Atención  psicosocial  para el talento humano  con el fin de atender y prevenir   situaciones  que afecten su salud mental  y promover  su  bienestar  dentro de la organización.    Igualmente  se  busca   actuar preventivamente ante posibles situaciones que pueden derivar en problemas en las relaciones entre trabajadores, o entre  éstos y el entorno  laboral.  Este servicio se presta de modo presencial o virtual según el caso.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOLICITAR</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-600x963.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "PROPICIAMOS",
+          "caption2": "Encuentros con grupos de talento humano,   puestos de acuerdo para  trabajar un aspecto especifico del área personal o laboral  que  puede derivar  en situaciones que afectan la armonía personal u organizacional.  Para participar en los encuentros deben  solicitarlo a través de la línea de whatssap  o puede ser invitado por el programa",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOLICITAR</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-1-600x964.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "PREPARAMOS",
+          "caption3": "Desarrollo de  capacitaciones programadas  según calendario previsto y las que surjan como demanda del talento humano para beneficio de la organización.   Para el año 2020 se han programado estas capacitaciones: -La Comunicación como vinculo de trabajo en equipo,  Formas de mando y estilos de autoridad que generan productividad,  Cuidados de la Salud Mental en los Entornos de la Vida, Habilidades para la vida,  Acciones de prevención en la salud mental en el contexto laboral.<br>Las fechas de cada capacitación están registradas en el cronograma general del programa de salud mental y  estas son avisadas con  tiempo prudencial para que el talento humano participe<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOLICITAR</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-600x954.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "TENEMOS",
+          "caption4": "<p>A.&nbsp; &nbsp; Campaña \"Compra lo nuestro\".</p><br><p>B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mi familia emprendedora.</p>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOLICITAR</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5-600x967.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "REALIZAMOS",
+          "caption5": "Visitas en las unidades de trabajo  a solicitud de los equipos de talento humano o  por iniciativa  del programa de Salud Mental.  Aquí se conocerán las dificultades que a nivel organizacional se pudiera  estar presentando,  se  busca potencializar  las  habilidad de los miembros de los equipos  y con ellos se  les apoya en la  construcción de una  una alternativa   que propicie un cambio positivo.",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOLICITAR</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        }
+      ]
+    }
+  }
+}
